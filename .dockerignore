@@ -1,2 +1,5 @@
 .git/*
-GTFS/**/*.txt
+export/**/*.txt
+logs/*
+uploads/*
+hydcsv_related/*
